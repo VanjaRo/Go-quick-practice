@@ -1,1 +1,1 @@
-Doing programming exercises from https://github.com/gophercises
+Building practical samll projects from https://github.com/gophercises
