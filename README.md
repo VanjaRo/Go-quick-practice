@@ -1,1 +1,1 @@
-Building practical samll projects from https://github.com/gophercises
+Building practical small projects from https://github.com/gophercises
